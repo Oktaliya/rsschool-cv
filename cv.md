@@ -23,6 +23,8 @@ I like to study and learn something new. I like to read books, do physical educa
 
 ### My projects
 
+---
+
 [CV](https://Oktaliya.github.io/rsschool-cv/)
 
 ### Languages
