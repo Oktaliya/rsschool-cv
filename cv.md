@@ -21,6 +21,13 @@ I like to study and learn something new. I like to read books, do physical educa
 * JavaScript (Basic)
 * Git
 
+### Courses
+
+---
+
+RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+
 ### My projects
 
 ---
